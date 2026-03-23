@@ -5,11 +5,11 @@
 Backend developer with a growing obsession for how systems actually work under the hood.
 
 - 🔧 Building with **Python** day-to-day
-- 📖 Currently reading **OSTEP** — diving into OS internals, memory, concurrency
+- 📖 Currently reading **OSTEP** — diving into OS internals, virtualization, concurrency, persistence.
 - 🧠 Interested in systems thinking, low-level concepts, and what happens beneath the abstractions
 - 🦀 Learning **Rust**
 - 🤝 Open to collaboration on exciting projects
 
-**Stack:** C · Python · Go · TypeScript · PostgreSQL · Redis · Git
+**Stack:** C · C++ · Python · Go · TypeScript · PostgreSQL · Redis · Git · Rust
 
 📫 ivuelekwastephen@gmail.com · He/Him
